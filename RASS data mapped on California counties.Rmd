@@ -18,7 +18,7 @@ The main source of data for this work is the Residential Applicance Saturation S
 
 You can find out more about the study at http://www.energy.ca.gov/appliances/rass/
 
-Beginning with the function **newrankfunc**. This function returns a numerical list, reordered according to the input in **choice**. I have allowed for two options - **rank** and **percentile**. **Rank** reorders the list based on its standing while **percentile** gives us an idea of the difference between two counties. 
+Beginning with the function **newrankfunc**. This function returns a numerical list, reordered according to the input in **choice**. I have  allowed for two options - **rank** and **percentile**. **Rank** reorders the list based on its standing while **percentile** gives us an idea of the difference between two counties. 
 
 ```{r}
 newrankfunc <- function(x, choice='rank')
