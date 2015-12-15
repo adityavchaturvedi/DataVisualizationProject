@@ -1,13 +1,3 @@
----
-title: "RASS data mapped on California Counties"
-author: "Aditya V Chaturvedi"
-date: "Saturday, January 3, 2014"
-output:
-  html_document:
-    highlight: tango
-    theme: spacelab
----
-
 This is an algorithm written in R, using RStudio, display counties certain indicators state wide on a map of California.
 
 Last summer I worked as a data visualizaiton intern at for the Energy and Resources Group at UC Berkeley. I was involved with their "Information-Energy Nexus Researcg Project".
